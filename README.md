@@ -1,3 +1,5 @@
+Culinari Template
+
 # Culinari-Template : Template for Recipe-book made using PHP
 
 
